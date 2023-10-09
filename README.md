@@ -1,0 +1,46 @@
+# PRPRCP-1020HousePricePrediction2
+PRCP-1020-HousePricePrediction Capstone project2 
+
+
+Task 1:- Prepare a complete data analysis report on the given data.
+
+Task 2:-a) Create a robust machine learning algorithm to accurately predict the price of the house given the various factors across the market.      
+            b) Determine the relationship between the house features and how the price varies based on this.
+
+Task3:- Come up with suggestions for the customer to buy the house according to the area, price and other requirements.
+
+Data fields::::
+Here's a brief version of what you'll find in the data description file.
+SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+MSSubClass: The building class
+MSZoning: The general zoning classification
+LotFrontage: Linear feet of street connected to property
+LotArea: Lot size in square feet
+Street: Type of road access
+Alley: Type of alley access
+LotShape: General shape of property
+LandContour: Flatness of the property
+Utilities: Type of utilities available
+LotConfig: Lot configuration
+LandSlope: Slope of property
+Neighborhood: Physical locations within Ames city limits
+Condition1: Proximity to main road or railroad
+Condition2: Proximity to main road or railroad (if a second is present)
+BldgType: Type of dwelling
+HouseStyle: Style of dwelling
+OverallQual: Overall material and finish quality
+OverallCond: Overall condition rating
+YearBuilt: Original construction date
+YearRemodAdd: Remodel date
+RoofStyle: Type of roof
+R oofMatl: Roof material
+Exterior1st: Exterior covering on house
+Exterior2nd: Exterior covering on house (if more than one material)
+MasVnrType: Masonry veneer type
+MasVnrArea: Masonry veneer area in square feet
+ExterQual: Exterior material quality
+ExterCond: Present condition of the material on the exterior
+Foundation: Type of foundation
+BsmtQual: Height of the basement
+BsmtCond: General condition of the basement
+
